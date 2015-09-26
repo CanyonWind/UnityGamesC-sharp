@@ -1,4 +1,4 @@
-![alt tag](/Assets/Scenes/Intro.png)
+![alt tag](Intro.png)
 
 # TRY IT ONLINE: https://dl.dropboxusercontent.com/s/bw72s5ki62f933q/B0-Yan%20Kang.html 
 
