@@ -1,8 +1,7 @@
  
 # TRY IT ONLINE: https://dl.dropboxusercontent.com/s/bw72s5ki62f933q/B0-Yan%20Kang.html 
 
-1)  
-“W A S D” to control the left player, arrows to control the right player; left and right “shift”s are used to control jumping. Players can double jump.
+1)  “W A S D” to control the left player, arrows to control the right player; left and right “shift”s are used to control jumping. Players can double jump.
 
 Cube worth 10 points, collision to the other player or the wall would minus 1 point.
 
@@ -14,9 +13,9 @@ If player drops off the plane, game end and the other wins.
 
 Scores are shown on the top left and top right sides of the screen.
 
+#
 
-2) 
-Announcements are made when time’s up, player drops and player wins.
+2) Announcements are made when time’s up, player drops and player wins.
 
 Camera dynamically follows both two players.
 
