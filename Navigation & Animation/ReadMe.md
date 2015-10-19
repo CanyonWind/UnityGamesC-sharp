@@ -1,7 +1,7 @@
 
 Part1: Navigation
 Description:
-*The agents (capsule)* can be selected by clicking the mouse and turn black when selected. When several agents are selected, click a destination by mouse and they will turn white again and move there automatically;
+**The agents (capsule)** can be selected by clicking the mouse and turn black when selected. When several agents are selected, click a destination by mouse and they will turn white again and move there automatically;
 The normal obstacles (cubes) can be moved by arrow keys when selected (turn black) by mouse.
 The devils (cylinders) are obstacles which moving automatically.
 Questions:
