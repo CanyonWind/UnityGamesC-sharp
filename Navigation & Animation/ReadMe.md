@@ -10,11 +10,13 @@
 
 
 ####Part2: Animation
+![alt tag](Scene2.png)
 * The humanoid character (Teddy) can be moved by **WASD/arrows** for default walking forward and backward. 
 * Press **left shift**, it will sprint; press space, it will jump. 
 * In both walking and sprinting condition, the agent could turn right or left with the call of **horizonal axis value**.
 
 ####Part3: Coupling Navigation and Animation
+![alt tag](Scene3.png)
 * Similar to part1, agents could automatically go to the destination but the difference is that agents are animated according to the navigation.
 * The selected bear can switch between run and walk by press and release **left shift**. It can also jump when meeting off mesh links (between different surfaces).
 
