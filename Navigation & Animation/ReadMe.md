@@ -16,7 +16,7 @@
 * In both walking and sprinting condition, the agent could turn right or left with the call of **horizonal axis value**.
 
 ####Part3: Coupling Navigation and Animation
-![alt tag](Scene3.png)
+![alt tag](Scene-3.png)
 * Similar to part1, agents could automatically go to the destination but the difference is that agents are animated according to the navigation.
 * The selected bear can switch between run and walk by press and release **left shift**. It can also jump when meeting off mesh links (between different surfaces).
 
