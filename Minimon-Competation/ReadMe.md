@@ -1,6 +1,6 @@
 ![alt tag](Intro.png)
 
-# [TRY IT ONLINE!] (https://dl.dropboxusercontent.com/s/bw72s5ki62f933q/B0-Yan%20Kang.html) 
+# [TRY IT ONLINE!](https://dl.dropboxusercontent.com/s/bw72s5ki62f933q/B0-Yan%20Kang.html) 
 
 # CONTROL
 “W A S D” to control the left player, arrows to control the right player; left and right “shift”s are used to control jumping. Players can double jump.
